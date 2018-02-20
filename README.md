@@ -23,7 +23,7 @@ Przygotowanie paczki dźwęków do symulacji atomowego okrętu podwodnego.
 
 7) krok na drabinie - wyciąłem kron ze ścieżki, zmodyfikowałem brzmienie, dodałem pogłos
 
-8) krok na pokładzie
+8) krok na pokładzie - yciąłem kron ze ścieżki, zmodyfikowałem brzmienie, dodałem pogłos
 
 9) otwarcie wyrzutni torpedowych
 
