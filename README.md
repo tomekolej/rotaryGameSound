@@ -21,9 +21,9 @@ Przygotowanie paczki dźwęków do symulacji atomowego okrętu podwodnego.
 
 6) odcięcie liny sonaru - zmodyfikowałem długość, wyciąłem zbędne odbicia, skleiłem ściezki, skorygowałem brzmienie
 
-7) krok na drabinie - wyciąłem kron ze ścieżki, zmodyfikowałem brzmienie, dodałem pogłos
+7) krok na drabinie - wyciąłem krok ze ścieżki, zmodyfikowałem brzmienie, dodałem pogłos
 
-8) krok na pokładzie - yciąłem kron ze ścieżki, zmodyfikowałem brzmienie, dodałem pogłos
+8) krok na pokładzie - wyciąłem krok ze ścieżki, zmodyfikowałem brzmienie, dodałem pogłos
 
 9) otwarcie wyrzutni torpedowych
 
