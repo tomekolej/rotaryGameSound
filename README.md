@@ -25,27 +25,27 @@ Przygotowanie paczki dźwęków do symulacji atomowego okrętu podwodnego.
 
 8) krok na pokładzie - wyciąłem krok ze ścieżki, zmodyfikowałem brzmienie, dodałem pogłos
 
-9) otwarcie wyrzutni torpedowych
+9) otwarcie wyrzutni torpedowych - wyciąłem krok ze ścieżki, wyciąłem górne pasmo, dodałem pogłos i echo
 
 ### B) Efekty średnio-długie:
-1) zatrzasnięcie i zaryglowanie włazu
+1) zatrzasnięcie i zaryglowanie włazu - wyciąłem dżwięk, dopasowałem brzemienie (żeby było w oddali)
 
-2) podniesienie peryskopu
+2) podniesienie peryskopu - zmiksowałem dźwięki, poprawiłem brzmienie, dopasowałem długości i ścisnąłem jeden z dżwięków
 
-3) opuszczenie peryskopu
+3) opuszczenie peryskopu - zmiksowałem dźwięki, poprawiłem brzmienie, dopasowałem długości
 
-4) rozwijanie liny sonaru
+4) rozwijanie liny sonaru - zmiksowałem dwa te same dźwięki, poprawiłem brzmienie, dopasowałem długości
 
-5) zalanie wyrzutni torpedowych
+5) zalanie wyrzutni torpedowych - powieliłem fragmenty jednego dźwięku, poprawiłem brzmienie
 
-6) odpalenie torpedy
+6) odpalenie torpedy - złożyłem dźwięki, poprawiłem brzmienie
 
-### C) Efekt długie:
-1) praca silnika
+### C) Efekty długie:
+1) praca silnika - nałożyłem dźwięki, poprawiłem brzmienie i głośność ścieżek
 
-2) alarm na pokładzie
+2) alarm na pokładzie - złożyłem dźwięki, poprawiłem brzmienie
 
-3) szum wody w wynurzeniu
+3) szum wody w wynurzeniu - złożyłem dźwięki, dodałem głosy ptaków, poprawiłem brzmienie
 
 
 
