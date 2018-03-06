@@ -1,4 +1,4 @@
-# rotaryGameSound
+# Rotary Game Sounds
 
 # Przygotowanie paczki dźwięków
 
